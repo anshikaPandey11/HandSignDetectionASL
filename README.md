@@ -70,8 +70,8 @@ HandSignDetectionASL/
 
 Click below to watch the demo of the hand gesture detection:
 
-[![Watch the video](https://youtu.be/Bs2wfLssxj8)
 
+[![Watch the video](https://img.youtube.com/vi/Bs2wfLssxj8/0.jpg)](https://youtu.be/Bs2wfLssxj8)
 ---
 
 ---
