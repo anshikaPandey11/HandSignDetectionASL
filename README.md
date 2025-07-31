@@ -68,6 +68,9 @@ HandSignDetectionASL/
 ---
 🧪 Demo
 
+Click below to watch the demo of the hand gesture detection:
+
+👉 [Watch Video](./HandGestureDetection.mp4)
 
 ---
 
