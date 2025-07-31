@@ -6,15 +6,7 @@ A real-time hand sign detection project that classifies American Sign Language (
 
 ## 📁 Folder Structure
 
-HandSignDetectionASL/
-├── Data/ # Dataset folders (A, B, C, Y...)
-├── Model/ # Trained model and labels
-├── .gitignore
-├── README.md # Project overview (this file)
-├── requirements.txt # Python dependencies (if any)
-├── dataCollection.py # Script to collect data
-├── test.py # Script to test model
-└── venv/ # Virtual environment (ignored)
+<pre> ``` HandSignDetectionASL/ ├── Data/ # Dataset folders (A, B, C, Y...) ├── Model/ # Trained model and labels ├── .gitignore ├── README.md # Project overview ├── LICENSE # Usage rights ├── requirements.txt # Python dependencies ├── dataCollection.py # Script to collect data ├── test.py # Script to test model # Detection script (optional) └── venv/ # Virtual environment (ignored) ``` </pre>
 
 ---
 
