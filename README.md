@@ -70,7 +70,7 @@ HandSignDetectionASL/
 
 Click below to watch the demo of the hand gesture detection:
 
-👉 [Watch Video](./HandGestureDetection.mp4)
+[![Watch the video](https://youtu.be/Bs2wfLssxj8)
 
 ---
 
