@@ -18,19 +18,20 @@ HandSignDetectionASL/
 ├── requirements.txt      # Python dependencies
 ├── dataCollection.py     # Script to collect data
 ├── test.py               # Script to test model
-├── main.py               # Real-time detection script (optional)
 └── venv/                 # Virtual environment (ignored)
 ```
 
 ---
    
 ## Install dependencies:
+
 * python (3.11.7)
 * opencv-python (4.10.0.84)
 * mediapipe (0.10.18)
 * tensorflow (2.12.1)
 
 ⚙️ Technologies Used
+
 1> Python
 
 2> OpenCV
@@ -44,11 +45,13 @@ HandSignDetectionASL/
 6> cvzone
 
 #📌 Features
+
 👉Real-time hand tracking and recognition
 
 👉ASL alphabet classification
 
 👉Easy to extend for more gestures
+
 
 🧪 Demo
 
