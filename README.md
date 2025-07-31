@@ -22,28 +22,39 @@ HandSignDetectionASL/
 ```
 
 ---
-   
+
+---
+
 ## Install dependencies:
+
 
 * python (3.11.7)
 * opencv-python (4.10.0.84)
 * mediapipe (0.10.18)
 * tensorflow (2.12.1)
 
+---
+
+---
+
 ⚙️ Technologies Used
 
-1> Python
 
-2> OpenCV
+1. Python
 
-3> MediaPipe
+2. OpenCV
 
-4> TensorFlow / Keras
+3. MediaPipe
 
-5> NumPy
+4. TensorFlow / Keras
 
-6> cvzone
+5. NumPy
 
+6. cvzone
+
+---
+
+---
 #📌 Features
 
 👉Real-time hand tracking and recognition
@@ -52,11 +63,17 @@ HandSignDetectionASL/
 
 👉Easy to extend for more gestures
 
+---
 
+---
 🧪 Demo
 
 
+---
 
+---
 🙋‍♀️ Author
 Anshika Pandey
 GitHub: @anshikaPandey11
+
+---
