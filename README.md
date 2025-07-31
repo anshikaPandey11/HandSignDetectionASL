@@ -1,52 +1,47 @@
 # ✋ Hand Sign Detection using ASL
 
-A real-time hand sign detection project that classifies American Sign Language (ASL) letters using OpenCV, MediaPipe, and a Keras-trained model.
+A real-time hand sign detection project that classifies American Sign Language (ASL) letters using OpenCV, MediaPipe, and a Keras-trained model.You can easily add your new gestures.
 
 ---
 
 ## 📁 Folder Structure
 
+```
 HandSignDetectionASL/
-├── Data/ # Dataset folders (A, B, C, Y...)
-├── Model/ # Trained model and labels
-│ ├── keras_model.h5
-│ └── labels.txt
+├── Data/                 # Dataset folders (A, B, C, Y...)
+├── Model/                # Trained model and labels
+│   ├── keras_model.h5
+│   └── labels.txt
 ├── .gitignore
-├── README.md # Project overview
-├── LICENSE # Usage rights
-├── requirements.txt # Python dependencies
-├── dataCollection.py # Script to collect data
-├── test.py # Script to test model
-├── main.py # Real-time detection script (optional)
-└── venv/ # Virtual environment (ignored)
+├── README.md             # Project overview
+├── LICENSE               # Usage rights
+├── requirements.txt      # Python dependencies
+├── dataCollection.py     # Script to collect data
+├── test.py               # Script to test model
+├── main.py               # Real-time detection script (optional)
+└── venv/                 # Virtual environment (ignored)
+```
+
 ---
+   
+## Install dependencies:
+* python (3.11.7)
+* opencv-python (4.10.0.84)
+* mediapipe (0.10.18)
+* tensorflow (2.12.1)
 
-## 💻 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/anshikaPandey11/HandSignDetectionASL.git
-   cd HandSignDetectionASL
-Install dependencies:
-
-bash
-pip install -r requirements.txt
-Run the program:
-
-bash
-python main.py
 ⚙️ Technologies Used
-Python
+1> Python
 
-OpenCV
+2> OpenCV
 
-MediaPipe
+3> MediaPipe
 
-TensorFlow / Keras
+4> TensorFlow / Keras
 
-NumPy
+5> NumPy
 
-cvzone
+6> cvzone
 
 #📌 Features
 👉Real-time hand tracking and recognition
@@ -56,16 +51,9 @@ cvzone
 👉Easy to extend for more gestures
 
 🧪 Demo
-(Add a short video, GIF, or image here)
+
 
 
 🙋‍♀️ Author
 Anshika Pandey
 GitHub: @anshikaPandey11
-
-📥 Optional: 
-If you don’t already have one, install these versions :
-python (3.11.7)
-opencv-python (4.10.0.84)
-mediapipe (0.10.18)
-tensorflow (2.12.1)
